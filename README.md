@@ -3,3 +3,4 @@
 - [Unit 02: CSS and Bootstrap](./Class-Content/02-CSS-Bootstrap/README.md)
 - [Unit 03: JavaScript](./Class-Content/03-JavaScript/README.md)
 - [Unit 04: Web APIs](./Class-Content/04-Web-APIs/README.md)
+- [Unit 05: Third Party APIs](./Class-Content/05-Third-Party-APIs/README.md)
