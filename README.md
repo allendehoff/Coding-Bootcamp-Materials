@@ -5,3 +5,4 @@
 - [Unit 04: Web APIs](./Class-Content/04-Web-APIs/README.md)
 - [Unit 05: Third Party APIs](./Class-Content/05-Third-Party-APIs/README.md)
 - [Unit 06: Server Side APIs](./Class-Content/06-Server-Side-APIs/README.md)
+- [Unit 07: Project 1](./Class-Content/07-Project-1/README.md)
