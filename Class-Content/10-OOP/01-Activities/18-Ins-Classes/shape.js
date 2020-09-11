@@ -11,6 +11,15 @@ class Shape {
   }
 }
 
+function Shape(area, permieter) {
+  this.area = area
+  this.permieter = perimeter
+  this.printInfo = function(){
+    console.log(`Area: ${this.area}`);
+    console.log(`Perimeter: ${this.perimeter}`);
+  }
+}
+
 const shape = new Shape(25, 25);
 
 shape.printInfo();
