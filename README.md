@@ -10,3 +10,4 @@
 - [Unit 09: NodeJS](./Class-Content/09-NodeJS/README.md)
 - [Unit 10: OOP](./Class-Content/10-OOP/README.md)
 - [Unit 11: Express](./Class-Content/11-express/README.md)
+- [Unit 12: MySQL](./Class-Content/12-MySQL/README.md)
