@@ -13,3 +13,5 @@
 - [Unit 12: MySQL](./Class-Content/12-MySQL/README.md)
 - [Unit 13: MVC](./Class-Content/13-MVC/README.md)
 - [Unit 14: Full-Stack](./Class-Content/14-Full-Stack/README.md)
+- [Unit 15: Project 2](./Class-Content/15-Project-2/README.md)
+- [Unit 16: Project 2 Continued](./Class-Content/16-Project-2-Contd/README.md)
