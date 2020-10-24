@@ -15,3 +15,4 @@
 - [Unit 14: Full-Stack](./Class-Content/14-Full-Stack/README.md)
 - [Unit 15: Project 2](./Class-Content/15-Project-2/README.md)
 - [Unit 16: Project 2 Continued](./Class-Content/16-Project-2-Contd/README.md)
+- [Unit 17: NoSQL](./Class-Content/17-NoSQL/README.md)
