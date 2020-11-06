@@ -17,3 +17,4 @@
 - [Unit 16: Project 2 Continued](./Class-Content/16-Project-2-Contd/README.md)
 - [Unit 17: NoSQL](./Class-Content/17-NoSQL/README.md)
 - [Unit 18: PWA](./Class-Content/18-PWA/README.md)
+- [Unit 19: React](./Class-Content/19-React/README.md)
