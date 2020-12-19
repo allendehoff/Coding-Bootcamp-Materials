@@ -21,3 +21,6 @@
 - [Unit 20: State](./Class-Content/20-State/README.md)
 - [Unit 21: MERN](./Class-Content/21-MERN/README.md)
 - [Unit 22: Computer Science](./Class-Content/22-Computer-Science/README.md)
+- [Unit 23: Project 3](./Class-Content/23-Project-3/README.md)
+- [Unit 24: Project 3 Continued](./Class-Content/24-Project-3-Contd/README.md)
+- [Unit 25: Power Packs](./Class-Content/25-Power-Packs/README.md)
